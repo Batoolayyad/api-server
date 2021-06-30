@@ -32,17 +32,17 @@ Each method should in turn call the appropriate Mongoose method for the model: c
 
 Heroku app link:
 
-
+https://m-api-server.herokuapp.com/
 
 
 GitHub actions link:
 
-
+https://github.com/Batoolayyad/api-server/actions
 
 Pull Rrequest link:
 
 
-
+https://github.com/Batoolayyad/api-server/pull/1
 
 ## UML
 
