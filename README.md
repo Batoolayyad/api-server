@@ -33,7 +33,7 @@ Each method should in turn call the appropriate Mongoose method for the model: c
 Heroku app link:
 
 https://m-api-server.herokuapp.com/
-
+https://m-api-server.herokuapp.com/api/v1/food
 
 GitHub actions link:
 
