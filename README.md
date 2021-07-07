@@ -1,6 +1,6 @@
 # api-server
 
-# LAB-4: Data Modeling
+## part(1): LAB-4: Data Modeling
 
 ## description
 
@@ -24,6 +24,10 @@ Each method should in turn call the appropriate Mongoose method for the model: c
 4- Delete A Record(DELETE)
 
 
+## part(2): LAB-9: refactoring using (SQL):
+
+refactoring part(1) insted of using mongodb we will use SQL
+
 
 
 
@@ -32,8 +36,8 @@ Each method should in turn call the appropriate Mongoose method for the model: c
 
 Heroku app link:
 
-https://m-api-server.herokuapp.com/
-https://m-api-server.herokuapp.com/api/v1/food
+https://sql-server-batool.herokuapp.com
+https://sql-server-batool.herokuapp.com/api/v1/food
 
 GitHub actions link:
 
@@ -41,8 +45,13 @@ https://github.com/Batoolayyad/api-server/actions
 
 Pull Rrequest link:
 
-
+PART(1):
 https://github.com/Batoolayyad/api-server/pull/1
+
+
+PART(2):
+https://github.com/Batoolayyad/api-server/pull/2
+
 
 ## UML
 
